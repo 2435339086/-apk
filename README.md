@@ -22,9 +22,10 @@
 
 无论是长线资产配置还是短线突击交易，**加密货币价格监测器**都是您最可靠的决策辅助。立即体验，让投资变得更简单、更从容！
 
-<img width="1264" height="2780" alt="S60202-17204064_com example cryptoalert" src="https://github.com/user-attachments/assets/6efe7d53-8113-45fa-b585-363d520d0821" />
-<img width="1264" height="2780" alt="S60202-17204287_com example cryptoalert" src="https://github.com/user-attachments/assets/c5664b28-25e3-4fe4-b399-6922f8b97186" />
-<img width="1264" height="2780" alt="S60202-17205224_com example cryptoalert" src="https://github.com/user-attachments/assets/2ae2330b-c16d-49ae-b245-2c8e0cd139de" />
+<img width="240" height="540" alt="S60202-17204064_com example cryptoalert" src="https://github.com/user-attachments/assets/6efe7d53-8113-45fa-b585-363d520d0821" />
+<img width="240" height="540" alt="S60202-17204287_com example cryptoalert" src="https://github.com/user-attachments/assets/c5664b28-25e3-4fe4-b399-6922f8b97186" />
+<img width="240" height="540" alt="S60202-17250664_com example cryptoalert" src="https://github.com/user-attachments/assets/a0b92393-7f2d-404b-b8ff-6661f648bf26" />
+<img width="240" height="540" alt="S60202-17205224_com example cryptoalert" src="https://github.com/user-attachments/assets/2ae2330b-c16d-49ae-b245-2c8e0cd139de" />
 
 
 
