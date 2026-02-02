@@ -1,4 +1,4 @@
-> **您的智能投资伴侣，毫秒级行情追踪与全方位预警。**
+<img width="1264" height="2780" alt="S60202-17205224_com example cryptoalert" src="https://github.com/user-attachments/assets/44c418f7-abde-411e-b4df-fdabdc22d620" />> **您的智能投资伴侣，毫秒级行情追踪与全方位预警。**
 
 在波诡云谲的加密市场中，精准的信息就是财富。“加密货币价格监测器”是一款专为现代投资者打造的高性能 Android 移动应用。它不仅提供了极速的行情追踪，还集成了深度的个性化管理与自动化预警机制，助您告别频繁盯盘的焦虑，精准捕捉每一次市场机会。
 
@@ -6,6 +6,8 @@
 
 ### 🚀 极速行情，尽在掌握
 直连币安 (Binance) 全球 API，提供主流币种及海量代币的实时价格流。配合灵动的个性化列表，支持自由排序、滑动管理及批量编辑，打造专属于您的“数字资产观察哨站”。
+<img width="1264" height="2780" alt="S60202-17204287_com example cryptoalert" src="https://github.com/user-attachments/assets/3ac7a432-7bad-4998-9b04-4be3e16af8f1" />
+<img width="1264" height="2780" alt="S60202-17204064_com example cryptoalert" src="https://github.com/user-attachments/assets/40f37571-6d33-4e3d-8d61-092a93749bd3" />
 
 ### 📊 专业级 K 线分析
 深度集成高性能图表库，支持从 1 分钟到 1 月线的全周期切换。无论是流畅的手势缩放平移，还是精准的十字准星高亮查价，都能让您像专业分析师一样洞察趋势。
@@ -20,6 +22,7 @@
 ---
 
 无论是长线资产配置还是短线突击交易，**加密货币价格监测器**都是您最可靠的决策辅助。立即体验，让投资变得更简单、更从容！
+<img width="1264" height="2780" alt="S60202-17205224_com example cryptoalert" src="https://github.com/user-attachments/assets/0c440933-467d-4942-80f9-52e611b6173a" />
 
 
 
